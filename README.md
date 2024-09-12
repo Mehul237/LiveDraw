@@ -46,7 +46,7 @@ This real-time whiteboard provides the user with following features:
 - Real-time virtual environment for drawing and erasing.
 
 ### Run on your local machine:
-Replace `link` with `http://localhost:5000/` in `index.html`file. <br>
+Replace `"https://livedraw.onrender.com/"` with `http://localhost:5000/` in `index.html`file. <br>
 Open the folder in VS code. Open terminal and write these commands: <br>
 ```
 npm init

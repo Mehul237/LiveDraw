@@ -1,0 +1,19 @@
+{
+  "name": "openboard_clone",
+  "version": "1.0.0",
+  "description": "### Project Desciption: The project comprises of basic openboard functionalities such as, writing, erasing, downloading the canvas, adding notes (with minimising it, closing it, dragging it around on the page), uploading the image (features same as of notes), undo and redo actions. <br> Added realtime drawing functionality using Socket.io by connecting to server using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Mehul Thuletiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
